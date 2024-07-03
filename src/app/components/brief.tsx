@@ -43,10 +43,10 @@ export default function Brief() {
   return (
     <div id="brief" className="prose text-balance w-full">
       <h1 className="m-0">Camilo Salazar</h1>
-      <h3 className="m-0">Industrial Civil Engineer</h3>
+      <h2 className="m-0">Industrial Civil Engineer</h2>
       <p className="m-0 mt-2">
-        Expert in data analysis, project management, and software development,
-        focusing on the financial and technology sectors.
+        Engineering data-driven solutions: Merging AI innovation with full-stack
+        mastery.
       </p>
       <div className="relative whitespace-nowrap overflow-hidden">
         <Slider />
