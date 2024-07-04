@@ -2,14 +2,14 @@ export default function Experience() {
   return (
     <div id="experience" className="prose mt-8 w-full">
       <a href="/#experience">
-        <h3>EXPERIENCE</h3>
+        <h3>WORK EXPERIENCE</h3>
       </a>
       <div>
         <h4>December 2023 - Present</h4>
         <h4>Sr. Project Manager at bewell Corredores de Seguros</h4>
         <ul>
           <li>
-            Led the development of{" "}
+            Led and develop of{" "}
             <a href="https://somosbewell.cl" target="_blank">
               bewell+
             </a>{" "}
