@@ -2,10 +2,12 @@ import { H3, H4, H5, UL } from "../components/text";
 
 export default function Experience() {
   return (
-    <div id="experience" className="mt-12 w-full max-w-2xl">
-      <a href="/#experience">
-        <H3>WORK EXPERIENCE</H3>
-      </a>
+    <div id="experience" className="mt-8 w-full max-w-2xl">
+      <div className="sticky top-0 bg-[#222436]/50 backdrop-blur py-4 -mx-6 px-6">
+        <a href="/#experience">
+          <H3>WORK EXPERIENCE</H3>
+        </a>
+      </div>
       <div className="mt-4 flex flex-col gap-4">
         <div>
           <H5>December 2023 - Present</H5>
