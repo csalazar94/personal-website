@@ -11,7 +11,7 @@ export default function IconButton({
     <a
       href={href}
       target={target}
-      className="h-8 fill-[#828bb8] hover:fill-[#c8d3f5]"
+      className="text-[#828bb8] hover:text-[#c8d3f5]"
     >
       {children}
     </a>

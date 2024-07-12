@@ -1,7 +1,5 @@
 import IconButton from "./icon-button";
-import Github from "../assets/logos/github";
-import GitLab from "../assets/logos/gitlab";
-import Mail from "../assets/logos/mail";
+import { Mail, Github, Gitlab } from "lucide-react";
 
 export default function Contact() {
   return (
@@ -13,7 +11,7 @@ export default function Contact() {
         <Github />
       </IconButton>
       <IconButton href="https://gitlab.com/csalazar94" target="_blank">
-        <GitLab />
+        <Gitlab />
       </IconButton>
     </div>
   );
