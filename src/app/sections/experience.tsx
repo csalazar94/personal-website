@@ -11,7 +11,7 @@ export default function Experience() {
       <div className="mt-4 flex flex-col gap-4">
         <div>
           <H5>December 2023 - Present</H5>
-          <H4>Sr. Project Manager at bewell Corredores de Seguros</H4>
+          <H4>IT Assistant Manager at bewell Corredores de Seguros</H4>
           <UL className="text-[#828bb8]">
             <li>
               Led and develop of{" "}
