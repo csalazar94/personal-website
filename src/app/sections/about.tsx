@@ -9,42 +9,47 @@ export default function About() {
         </a>
       </div>
       <P className="mt-4">
-        My journey into the world of technology began during the final stretch
-        of my Industrial Engineering degree at Universidad de Chile. While
-        working on my thesis at Banco BICE, I encountered professional software
-        development for the first time and it was love at first sight.
+        My journey into technology started during my &quot;Ingeniería Civil
+        Industrial&quot; degree at Universidad de Chile. While working on my
+        thesis at Banco BICE, I discovered professional software development,
+        and it was love at first sight.
       </P>
       <P className="mt-2">
-        Since then, my career has been an adventure through various areas of the
-        tech industry. I&apos;ve had the opportunity to develop and implement
-        machine learning models, lead software development teams in
-        collaboration with design teams, and create web applications from
-        scratch.
+        Since then, I&apos;ve evolved from data analytics and machine learning
+        into full-stack development and cloud infrastructure. I’ve built
+        scalable platforms, led development teams, and designed AI-driven
+        solutions that enhance user experiences.
       </P>
       <P className="mt-2">
-        Today, my focus is on enhancing and optimizing the user experience for
-        users of our{" "}
+        Currently, I lead the development of
         <A href="https://somosbewell.cl" rel="noreferrer" target="_blank">
+          {" "}
           bewell+
-        </A>{" "}
-        platform. I&apos;m passionate about developing new modules and tools for
-        our users and clients, with one of my recent exciting projects being{" "}
+        </A>
+        , an insurance management platform, where I focus on building secure and
+        efficient systems. One of my latest projects,
         <A href="https://chat.somosbewell.cl" rel="noreferrer" target="_blank">
+          {" "}
           AlexIA
         </A>
-        , an AI-powered chatbot that answers users questions about their
-        insurance policies and coverage.
+        , is an AI-powered chatbot that helps users understand their policies
+        and coverage seamlessly.
       </P>
       <P className="mt-2">
-        But there&apos;s more to me than just lines of code. When I&apos;m not
-        in the digital world, you can find me lifting weights at the gym,
-        keeping a close eye on the Santiago Stock Exchange, or spending quality
-        time with my family, friends, and partner.
+        Beyond my work at bewell, I&apos;m also developing arriendospro.com, a
+        platform for managing product rentals. It streamlines the rental process
+        with an intuitive booking system and inventory tracking. The platform is
+        built with Go, Next.js, and AWS, offering a scalable and modern solution
+        for rental businesses.
       </P>
       <P className="mt-2">
-        My goal is to continue pushing the boundaries of what&apos;s possible in
-        software development and AI, always with an eye on creating solutions
-        that make a real difference in people&apos;s lives.
+        Beyond coding, I enjoy lifting weights, following the Santiago Stock
+        Exchange, and spending time with my family, friends, and partner.
+      </P>
+      <P className="mt-2">
+        I&apos;m always looking to push the boundaries of software development
+        and AI, solving real-world problems with innovative and scalable
+        solutions.
       </P>
     </div>
   );

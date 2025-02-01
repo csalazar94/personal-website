@@ -39,10 +39,11 @@ export default function Brief() {
   return (
     <div id="brief" className="w-full max-w-2xl">
       <H1>Camilo Salazar</H1>
-      <H2>Industrial Civil Engineer</H2>
+      <H2>Software Engineer & Team Leader</H2>
       <P className="my-2">
-        Engineering data-driven solutions: Merging AI innovation with full-stack
-        mastery.
+        Building secure, scalable, and AI-driven software solutions. Passionate
+        about full-stack development, cloud infrastructure, and solving complex
+        problems with Go, JavaScript, and AWS.
       </P>
       <Contact />
     </div>

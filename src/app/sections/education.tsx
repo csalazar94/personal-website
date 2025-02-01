@@ -11,7 +11,7 @@ export default function Education() {
       <div className="mt-4 flex flex-col gap-4">
         <div>
           <H5>2012 - 2018</H5>
-          <H4>Industrial Civil Engineer</H4>
+          <H4>Ingeniería Civil Industrial</H4>
           <A href="https://uchile.cl" rel="noreferrer" target="_blank">
             Universidad de Chile
           </A>
